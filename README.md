@@ -1,0 +1,1 @@
+It is possible to create such a Simon Game using HTML for structure, CSS for styling, and JavaScript for logic, working just fine in any modern browser. The game has to generate the sequence of flashing buttons and detect the user input, which will increase as more and more colors enter the sequence as the game moves along
